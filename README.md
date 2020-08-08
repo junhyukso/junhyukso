@@ -1,7 +1,7 @@
 ### 👋👋
 
 I'm a student in the **Department of Electrical and Computer Engineering** at the **University of Seoul**.
-- 🔭 I’m currently working on **parallell software laboratory**
+- 🔭 I’m currently working on **parallel software laboratory**
 - 🌱 I’m currently learning **GPU Computing**, **Machine learning/Deep Learning**, **System Engineering**, 
 - 👯 I’m looking to collaborate on **Machine learning** , **High performance computing**, **chatbot** projects
 - 🤔 I’m looking for help with ...
