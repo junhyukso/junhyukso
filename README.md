@@ -5,7 +5,7 @@ I'm a student in the **Department of Electrical and Computer Engineering** at th
 - 🌱 I’m currently learning **GPU Computing**, **Machine learning/Deep Learning**, **System Engineering**, 
 - 👯 I’m looking to collaborate on **Machine learning** , **High performance computing**, **chatbot** projects
 - 🤔 I’m looking for help with ...
-- 📫 How to contact me: junhyukso042@gmail.com
+- 📫 How to contact me: junhyuk@uos.ac.kr
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=junhyukso&show_icons=true)
 <!--
