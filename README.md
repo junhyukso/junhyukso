@@ -2,10 +2,9 @@
 
 I'm a student in the **Department of Electrical and Computer Engineering** at the **University of Seoul**.
 - 🔭 I’m currently working on **Parallel software laboratory**
-- 🌱 I’m currently learning **GPU Computing**, **Machine learning/Deep Learning**, **System Engineering**, 
-- 👯 I’m looking to collaborate on **Machine learning** , **High performance computing**, **chatbot** projects
+- 🌱 I’m currently intersted in **Deep Learning Accerlatation/Compression* , **Deep Learning Algorithm**, **GPU Computing**, 
 - 🤔 I’m looking for help with ...
-- 📫 How to contact me: junhyuk@uos.ac.kr
+- 💬 Email: junhyuk@uos.ac.kr
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=junhyukso&show_icons=true)
 <!--
