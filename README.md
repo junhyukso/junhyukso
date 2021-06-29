@@ -1,7 +1,7 @@
 ### 👋👋
 
 I'm a student in the **Department of Electrical and Computer Engineering** at the **University of Seoul**.
-- 🔭 I’m currently working on **Parallel software laboratory**
+
 - 🌱 I’m currently intersted in **Deep Learning Accerlatation/Compression** , **Deep Learning Algorithm**, **GPU Computing**, 
 - 🤔 I’m looking for help with ...
 - 💬 Email: junhyuk@uos.ac.kr
