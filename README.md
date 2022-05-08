@@ -1,23 +1,14 @@
 ### 👋👋
 
-I'm a student in the **Department of Electrical and Computer Engineering** at the **University of Seoul**.
+Hello !
+My name is Junhyuk So. I am a graduate student in **department of computer science and engineering** at **POSTECH**(Pohang Univserity of Science and Technology)
 
-- 🌱 I’m currently intersted in **Deep Learning Accerlatation/Compression** , **Deep Learning Algorithm**, **GPU Computing**, 
-- 🤔 I’m looking for help with ...
-- 💬 Email: junhyuk@uos.ac.kr
+My research area includes deep learning optimization, core deep learning algorithm, computer systems for machine learning and parallel programming.
 
-![My github status](https://github-readme-stats.vercel.app/api?username=junhyukso&show_icons=true)
-<!--
-**junhyukso/junhyukso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full time graduate student at **ACP Lab**(http://acp.postech.ac.kr) under advisement of **Prof. EunHyeok Park**.
 
-Here are some ideas to get you started:
+Before joining this Lab, I received my bachelor degrees in **electrical and computer engineering** from **University of seoul**. I worked as undergraduate researcher at **ParLab**(Parrallel Software Design Lab) and **MLAI Lab**(Machine Learning and Artificial Intelligence). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+My E-mail address is junhyukso@postech.ac.kr. feel free to contact me.
